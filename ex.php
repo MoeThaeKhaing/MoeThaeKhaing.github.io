@@ -5,6 +5,7 @@ CTYPE html>
 </head>
 <body>
 	<h1>Hello World!</h1>
+	<h1>Hello!</h1>
 	<p>Today is:<?php echo date ("d/m/y")?></p>
 	<p><?php
 		$now=time();
